@@ -47,7 +47,7 @@ Mạch biến trở MKE-M04 Potentiometer RGYBW Module hỗ trợ điện áp đ
 ## Hướng dẫn sử dụng
 ### Hướng dẫn kết nối
 - Cấp nguồn 5VDC cho mạch qua hai chân GND và 5V.
-- Nhận tín hiệu từ nút nhấn qua chân tín hiệu SIG.
+- Nhận tín hiệu từ biến trở qua chân tín hiệu SIG.
 <table><thead>
   <tr>
     <th>SIG (Analog Out)</th>
@@ -87,6 +87,7 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M04 Potentiometer](/extras/MKE-M04_2.png)
 ![MKE-M04 Potentiometer](/extras/MKE-M04_3.png)
+
 
 
 
