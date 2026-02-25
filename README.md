@@ -4,7 +4,7 @@ MKE-M04 Potentiometer RGYBW Module là mạch biến trở cho phép tạo ra gi
 
 Biến trở được trang bị nắp chụp nhiều màu sắc giúp dễ dàng phân biệt khi lắp đặt và sử dụng. Mạch có 5 phiên bản màu gồm: Đỏ, Xanh lá, Vàng, Xanh dương và Trắng, đáp ứng đa dạng nhu cầu ứng dụng.
 
-Mạch biến trở MKE-M04 Potentiometer RGYBW Module hỗ trợ điện áp điều khiển 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình sử dụng.
+Mạch biến trở MKE-M04 Potentiometer RGYBW Module hỗ trợ điện áp giao tiếp 3.3V và 5VDC, cho phép kết nối trực tiếp và an toàn với hầu hết các bo mạch điều khiển phổ biến hiện nay như Arduino, Raspberry Pi, Jetson Nano, Micro:bit và nhiều nền tảng khác. Sản phẩm đi kèm cáp kết nối 3P XH2.54 – Dupont, đảm bảo kết nối chắc chắn, ổn định và thuận tiện trong quá trình sử dụng.
 
 ## Thông số kỹ thuật
 - Điện áp cấp nguồn: 5VDC
@@ -87,6 +87,7 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ## Hình ảnh sản phẩm
 ![MKE-M04 Potentiometer](/extras/MKE-M04_2.png)
 ![MKE-M04 Potentiometer](/extras/MKE-M04_3.png)
+
 
 
 
