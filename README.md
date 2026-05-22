@@ -1,5 +1,6 @@
 # Mạch biến trở MKE-M04 Potentiometer RGYBW Module
 
+## Giới thiệu
 MKE-M04 Potentiometer RGYBW Module là mạch biến trở cho phép tạo ra giá trị điện áp Analog tuyến tính tương ứng với góc xoay của trục biến trở, giúp người dùng dễ dàng ghi nhận và xử lý tín hiệu một cách chính xác. Sản phẩm thường được sử dụng trong các ứng dụng điều khiển tăng/giảm giá trị như điều chỉnh tốc độ, độ sáng, âm lượng, cũng như trong các mô hình robot, dự án STEM, đồ án học tập và thực hành điện tử.
 
 Biến trở được trang bị nắp chụp nhiều màu sắc giúp dễ dàng phân biệt khi lắp đặt và sử dụng. Mạch có 5 phiên bản màu gồm: Đỏ, Xanh lá, Vàng, Xanh dương và Trắng, đáp ứng đa dạng nhu cầu ứng dụng.
@@ -67,13 +68,12 @@ Mạch biến trở MKE-M04 Potentiometer RGYBW Module hỗ trợ điện áp gi
 
 ### Hướng dẫn sử dụng với Arduino Uno / Vietduino Uno / ESP32
 - Trong **Tools / Library Manager**, tìm và cài đặt bộ thư viện tổng hợp **"MKE_ONE" by MakerEdu.vn**
-- Mở chương trình mẫu **"MKE_M04_Potentiometer_Serial_XXX"** tại **File / Examples / MAKEREDU / Module / MKE_M04_Potentiometer**
+- Mở chương trình mẫu tại **File / Examples / MKE_ONE / Module / MKE_M04_Potentiometer**
 - Cấu hình board mạch tương ứng là **Arduino Uno / ESP32**, chọn đúng cổng **COM Port** của mạch và nhấn **Upload** để nạp chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân S (SIGNAL) của module với chân điều khiển được khai báo trong chương trình.
 - Xem kết quả mạch hoạt động theo chương trình đã nạp.
 
 ### Hướng dẫn lập trình với Micro:bit (kéo thả khối)
-
 - Khởi động [Microsoft MakeCode](https://makecode.microbit.org/) và **Import** chương trình theo đường link sau: `https://github.com/makereduvn/mke_m04_potentiometer_microbit/`
 - Kết nối mạch Micro:bit và **Download** chương trình.
 - Cấp nguồn 5VDC cho mạch, kết nối chân S (SIGNAL) của module với chân điều khiển được khai báo trong chương trình.
@@ -88,7 +88,8 @@ Nếu bắt đầu tự án mới cần cài đặt Extension **MKE_ONE_MICROBIT
 ![MKE-M04 Potentiometer](/extras/MKE-M04_2.png)
 ![MKE-M04 Potentiometer](/extras/MKE-M04_3.png)
 
-
+## Miễn trừ trách nhiệm
+Sản phẩm này là bo mạch phát triển được thiết kế phục vụ cho mục đích nghiên cứu, thử nghiệm và học tập, không phải là một thiết bị hoàn chỉnh. Trong trường hợp người dùng kết hợp mạch này với các linh kiện, thiết bị hoặc phần mềm khác để tạo thành một hệ thống hoặc sản phẩm hoàn chỉnh, mọi chức năng và tính phù hợp của sản phẩm sau cùng đều thuộc trách nhiệm của người dùng.
 
 
 
